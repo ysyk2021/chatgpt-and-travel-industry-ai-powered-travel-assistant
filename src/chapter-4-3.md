@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in AI-powered Travel Assistants
 
 ChatGPT is a state-of-the-art natural language processing tool that has the potential to transform the travel industry. In this chapter, we will introduce ChatGPT and explore its advantages for use in AI-powered travel assistants.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an artificial intelligence language model that uses machine learning algorithms to generate human-like text in response to user queries. It was developed by OpenAI and is based on the GPT (Generative Pre-trained Transformer) architecture.
-
 Advantages of Using ChatGPT in AI-powered Travel Assistants
 -----------------------------------------------------------
 
