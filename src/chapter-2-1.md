@@ -1,5 +1,4 @@
-What is Travel Industry?
-==================================================================
+
 
 The travel industry is a broad category of economic activities that involve the movement of people from one location to another for various purposes. The industry includes a wide range of businesses and services, including transportation, accommodation, recreation, entertainment, food and beverage, travel agencies, tour operators, and other related services.
 

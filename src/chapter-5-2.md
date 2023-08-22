@@ -1,5 +1,4 @@
-Personalization Techniques Used in ChatGPT for AI-powered Travel Assistants
-=========================================================================================================================================
+
 
 One of the key features of ChatGPT is its ability to provide personalized recommendations and assistance to users. In this chapter, we will explore the personalization techniques used in ChatGPT for AI-powered travel assistants.
 

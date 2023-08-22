@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the use of ChatGPT and AI-powered travel assistants in the travel industry, as well as the limitations and challenges facing the industry. While ChatGPT and AI technologies offer significant potential for improving user experiences and business outcomes, there are also limitations and challenges that must be addressed.
 

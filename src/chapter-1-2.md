@@ -1,5 +1,4 @@
-Background information on travel industry, ChatGPT, and AI-powered travel assistants
-==================================================================================================
+
 
 The travel industry is a massive and rapidly growing sector that generates trillions of dollars in revenue each year. As more people travel for business and leisure purposes, the demand for efficient and convenient travel services has increased. In recent years, technology has played an essential role in transforming the travel industry, making it easier for travelers to plan, book, and manage their trips.
 

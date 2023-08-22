@@ -1,5 +1,4 @@
-Chapter 1: Understanding Travel Industry
-========================================
+
 
 What is Travel Industry?
 ------------------------

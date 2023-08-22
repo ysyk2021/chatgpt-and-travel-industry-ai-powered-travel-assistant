@@ -1,5 +1,4 @@
-Advantages of Using Chatbots and AI in Travel Industry
-=====================================================================================================
+
 
 The use of chatbots and AI technologies in the travel industry has become increasingly popular, providing personalized experiences, real-time assistance, and collaboration and innovation features for travelers. In this chapter, we will explore the advantages of using chatbots and AI in the travel industry.
 

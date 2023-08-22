@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 ChatGPT is an advanced language generation model developed by OpenAI, capable of generating human-like text based on a given prompt. In this chapter, we will explore what ChatGPT is, its features, advantages of using it in AI-powered travel assistants, and case studies on ChatGPT-based AI-powered travel assistants.
 

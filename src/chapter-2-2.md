@@ -1,5 +1,4 @@
-The History and Evolution of Travel Industry
-======================================================================================
+
 
 The travel industry has a rich history, dating back to ancient times when travelers would embark on journeys for trade, exploration, or pilgrimage. In this chapter, we will explore the history and evolution of the travel industry, from its earliest origins to the present day.
 
