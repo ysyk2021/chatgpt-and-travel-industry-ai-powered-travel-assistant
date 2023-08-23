@@ -1,7 +1,4 @@
 
-
-In this chapter, we will explore the implementation of ChatGPT in AI-powered travel assistants. This includes planning and designing ChatGPT for travel applications, integrating it with existing travel systems, training and managing conversations, and evaluating its performance and effectiveness.
-
 Planning and Designing ChatGPT for AI-powered Travel Assistants
 ---------------------------------------------------------------
 

@@ -1,5 +1,4 @@
 
-
 ChatGPT is a state-of-the-art natural language processing tool that has the potential to transform the travel industry. In this chapter, we will introduce ChatGPT and explore its advantages for use in AI-powered travel assistants.
 
 Advantages of Using ChatGPT in AI-powered Travel Assistants

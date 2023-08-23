@@ -1,5 +1,4 @@
 
-
 The travel industry is a dynamic and rapidly evolving field, with new technologies and trends emerging on a regular basis. The goal of this book is to explore the use of ChatGPT and AI-powered travel assistants in the travel industry, as well as their potential to transform the way travelers plan, book, and experience their trips.
 
 Specific objectives of this book include:
@@ -12,5 +11,4 @@ Specific objectives of this book include:
 * Outlining future research directions in the use of ChatGPT and AI-powered travel assistants in the travel industry
 
 By addressing these objectives, this book aims to provide readers with a comprehensive understanding of the role of ChatGPT and AI technologies in the travel industry, while highlighting the potential for these technologies to transform the way we travel and experience the world.
-
 

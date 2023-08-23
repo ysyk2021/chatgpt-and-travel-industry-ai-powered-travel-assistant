@@ -1,7 +1,4 @@
 
-
-ChatGPT is a powerful tool for improving the effectiveness of AI-powered travel assistants. In this chapter, we will explore some case studies that demonstrate how ChatGPT can enhance the capabilities of travel assistants and provide a better user experience for travelers.
-
 Case Study 1: Hotel Booking Assistant
 -------------------------------------
 

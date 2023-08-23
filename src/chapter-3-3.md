@@ -1,5 +1,4 @@
 
-
 The travel industry has increasingly adopted chatbots and AI technologies to provide personalized experiences, real-time assistance, and collaboration and innovation features for travelers. In this chapter, we will explore the different types of chatbots used in the travel industry.
 
 Rule-Based Chatbots

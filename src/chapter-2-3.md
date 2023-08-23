@@ -1,5 +1,4 @@
 
-
 The travel industry is a diverse and complex field, encompassing a range of different services and sectors. In this chapter, we will explore the types of travel services used today, including transportation, accommodations, activities, and more.
 
 Transportation

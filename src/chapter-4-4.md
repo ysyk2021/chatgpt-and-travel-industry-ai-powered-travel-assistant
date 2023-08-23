@@ -1,5 +1,4 @@
 
-
 ChatGPT is an advanced AI-powered travel assistant that uses natural language processing and machine learning algorithms to provide personalized travel recommendations and assistance to users. In this chapter, we will explore some case studies of ChatGPT-based AI-powered travel assistants and how they are transforming the travel industry.
 
 Case Study 1: KLM's BlueBot

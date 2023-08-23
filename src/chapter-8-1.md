@@ -1,5 +1,4 @@
 
-
 The travel industry is a massive and rapidly growing sector that generates trillions of dollars in revenue each year. AI-powered travel assistants like ChatGPT have the potential to revolutionize the travel industry by providing personalized recommendations and assistance to users.
 
 ChatGPT uses natural language processing and machine learning algorithms to understand user queries and generate accurate and relevant responses. Personalization techniques and data analysis are used to ensure that ChatGPT provides tailored recommendations to individual users.

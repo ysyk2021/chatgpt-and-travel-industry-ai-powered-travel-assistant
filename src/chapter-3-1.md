@@ -1,5 +1,4 @@
 
-
 The use of chatbots and AI technologies has revolutionized the travel industry, providing personalized experiences, real-time assistance, and collaboration and innovation features for travelers. In this chapter, we will provide an overview of chatbots and AI in the travel industry.
 
 What are Chatbots?
