@@ -8,3 +8,7 @@ Through this book, you will gain insights into the latest trends and best practi
 Whether you are a travel industry professional or a traveler looking to make the most of your next vacation, ChatGPT and Travel Industry: AI-Powered Travel Assistant offers practical guidance and inspiration for leveraging AI in the travel industry. So, let's dive in and explore the exciting world of AI-powered travel assistance!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
